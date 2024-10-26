@@ -63,7 +63,7 @@ target_date = '2023-10-01'         # Set the date to fetch previous versions fro
             <pre><code>https://drive.google.com/drive/folders/&lt;FOLDER_ID&gt;</code></pre>
         </li>
         <li><strong>Run the script:</strong>
-            <pre><code>python folder_drive_backup.py</code></pre>
+            <pre><code>python google_drive_recovery.py</code></pre>
         </li>
         <li><strong>Expected Output:</strong>
             <pre><code>Entering folder: Important Documents
